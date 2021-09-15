@@ -7,3 +7,4 @@ Frameworks de segurança da informação
     NIST
     MITRE ATT & CK® 
     Security ScoreCard
+    OWASP
